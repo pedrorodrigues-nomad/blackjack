@@ -1,4 +1,3 @@
-Markdown
 
 # Blackjack Game
 
